@@ -1,8 +1,6 @@
 # uplat
 Simple, heuristic shell script that prints the platform (distro) name
 
-This simple shell script prints the platform name.
-
 The platform name is composed of the following 4 parts:
 
 ```
