@@ -1,4 +1,6 @@
 # uplat
+[![Releases](https://img.shields.io/github/release/jlinoff/uplat.svg?style=flat)](https://github.com/jlinoff/uplat/releases)
+
 Simple, heuristic shell script that prints the platform (distro) name
 
 The platform name is composed of the following 4 parts:
