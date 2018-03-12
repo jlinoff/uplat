@@ -32,3 +32,5 @@ Running it is trivial.
 $ uplat.sh
 darwin-macos-10.13.3-x86_64
 ```
+
+This script is useful for differentiating distro specific builds on a shared file system.
